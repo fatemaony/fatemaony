@@ -1,6 +1,10 @@
 # Hi there! 👋 I'm Fatema Akter
 
 <div align="center">
+  <img src="https://github.com/fatema-akter/fatema-akter/blob/main/banner.png" alt="Fatema Akter Banner" width="100%" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
 </div>
 
