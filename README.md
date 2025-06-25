@@ -39,9 +39,9 @@ I'm a passionate and results-driven Full Stack Developer with a strong foundatio
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: [your-email@example.com]  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- 📧 Email: [fatema77095@gmail.com.com]  
+- 💼 LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/fatema-akter-a299a6317/))  
+- 🌐 Portfolio: [your-portfolio-link.com](https://fatema-portfolio-link.com)
 
 ---
 
