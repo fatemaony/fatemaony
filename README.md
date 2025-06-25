@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fatema-akter/fatema-akter/main/Blue%20Brown%20Corporate%20Online%20Business%20Webinar%20Banner.png" alt="Fatema Akter Banner" width="100%" />
+  <img src="https://i.ibb.co/dvMfzgW/Blue-Brown-Corporate-Online-Business-Webinar-Banner.png" alt="Fatema Akter Banner" width="100%" />
 </div>
 
 <!-- Animated Typing -->
