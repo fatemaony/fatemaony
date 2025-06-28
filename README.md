@@ -90,5 +90,5 @@
 </div>
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/fatema-akter">Fatema Akter</a></i>
+  <i>⭐️ From <a href="https://github.com/fatemaony">Fatema Akter</a></i>
 </div>
